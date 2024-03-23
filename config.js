@@ -12,7 +12,7 @@ global.owner = [
   [''] 
 ] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "919362641982" //put your bot number here
 
 global.mods = ['918787651195'] 
 global.prems = ['918787651195']
@@ -54,10 +54,10 @@ global.botname = 'Botz'
 global.premium = 'true'
 global.packname = 'Awmtea┃Polythene' 
 global.author = '@Awmtea' 
-global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
+global.menuvid = 'https://telegra.ph/file/c76167f3754f68319f250.jpg'
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/omoma_cck8\n' 
 global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
+global.fgsc = 'https://github.com/Awmteacck/GURU-BOT' 
 global.fgyt = 'https://youtube.com/@Asliguru'
 global.fgpyp = 'https://youtube.com/@Asliguru'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
